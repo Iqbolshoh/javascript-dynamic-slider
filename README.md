@@ -1,3 +1,7 @@
+# JavaScript Slider Template
+
+![Banner](banner.png)
+
 
 ### Project Structure:
 ```
@@ -13,12 +17,6 @@ template-javascript-slider/
 
 └── README.md
 ```
-
-### `README.md`:
-
-# JavaScript Slider Template
-
-![Banner](banner.png)
 
 ## Overview
 
