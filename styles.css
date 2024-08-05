@@ -1,0 +1,132 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.container {
+    /* if you only give width, all dimensions will be correct */
+    width: 80%;
+    aspect-ratio: 16 / 9;
+    margin: 40px auto;
+    position: relative;
+}
+
+
+.slider {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    position: relative;
+    overflow: hidden;
+}
+
+.slider img {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transform: translateX(100%);
+    border-radius: 15px;
+    transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+}
+
+.slider img.active {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+.slider img.previous {
+    transform: translateX(-100%);
+}
+
+.navigation-button {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+.line {
+    cursor: pointer;
+    height: 10px;
+    width: 10px;
+    margin: 0 5px;
+    background-color: #777;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.line.active {
+    background-color: #ffffff;
+    transform: scale(1.2);
+}
+
+.nav-button {
+    position: absolute;
+    top: 50%;
+    background-color: rgba(134, 129, 129, 0.5);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 24px;
+    padding: 15px;
+    z-index: 10;
+    transition: background-color 0.3s, transform 0.3s;
+    transform: translateY(-50%);
+}
+
+.nav-button:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.prev {
+    left: 15px;
+}
+
+.next {
+    right: 15px;
+}
+
+@media (max-width: 890px) {
+    .nav-button {
+        font-size: 22px;
+        padding: 11px;
+    }
+
+    .navigation-button {
+        bottom: 12px;
+    }
+
+    .line {
+        height: 9px;
+        width: 9px;
+    }
+}
+
+@media (max-width: 700px) {
+
+    .container {
+        width: 90%;
+    }
+
+    .navigation-button {
+        bottom: 10px;
+    }
+
+    .line {
+        height: 7px;
+        width: 7px;
+    }
+
+    .nav-button {
+        font-size: 14px;
+        padding: 7px;
+    }
+
+}
