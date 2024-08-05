@@ -1,6 +1,6 @@
 # JavaScript Slider Template
 
-![Banner](banner.png)
+![Banner](images/banner.png)
 
 
 ### Project Structure:
