@@ -28,15 +28,6 @@ To get started with this slider template, follow these steps:
    open index.html
    ```
 
-## File Structure
-
-- `index.html`: The main HTML file that contains the slider structure.
-- `styles.css`: The CSS file for styling the slider and making it responsive.
-- `script.js`: The JavaScript file for slider functionality.
-- `images/`: Folder containing the images used in the slider.
-- `banner.png`: A banner image for the repository.
-- `README.md`: This README file.
-
 ## Responsive Design
 
 This slider template is built to be responsive and works well on various screen sizes. The CSS media queries ensure that the slider adjusts its width and other properties based on the screen size.
