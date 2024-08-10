@@ -12,6 +12,8 @@ This project is a simple and responsive JavaScript slider template designed to w
 
 ![Mobile Preview](./images/mobile.png)
 
+This slider template is built to be responsive and works well on various screen sizes. The CSS media queries ensure that the slider adjusts its width and other properties based on the screen size.
+
 ## Features
 
 - Responsive design that adapts to various screen sizes, including mobile devices.
@@ -33,10 +35,6 @@ To get started with this slider template, follow these steps:
    ```sh
    open index.html
    ```
-
-## Responsive Design
-
-This slider template is built to be responsive and works well on various screen sizes. The CSS media queries ensure that the slider adjusts its width and other properties based on the screen size.
 
 ## Contributing
 
