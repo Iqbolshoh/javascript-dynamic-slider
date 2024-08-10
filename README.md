@@ -2,22 +2,6 @@
 
 ![Banner](images/banner.png)
 
-
-### Project Structure:
-```
-template-javascript-slider/
-├── images/
-│   ├── img-1.jpg
-│   ├── img-2.jpg
-│   ├── img-3.jpg
-│   ├── banner.png
-├── index.html
-├── script.js
-├── styles.css
-
-└── README.md
-```
-
 ## Overview
 
 This project is a simple and responsive JavaScript slider template designed to work seamlessly across all devices. It features smooth transitions, navigation buttons, and customizable styles to fit various use cases.
