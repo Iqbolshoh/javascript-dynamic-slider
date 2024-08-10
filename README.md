@@ -57,6 +57,10 @@ To get started with this slider template, follow these steps:
 
 This slider template is built to be responsive and works well on various screen sizes. The CSS media queries ensure that the slider adjusts its width and other properties based on the screen size.
 
+## Contributing
+
+Contributions are welcome! If you have suggestions or want to enhance the project, feel free to fork the repository and submit a pull request.
+
 ## Connect with Me
 
 I love connecting with new people and exploring new opportunities. Feel free to reach out to me through any of the
