@@ -1,10 +1,16 @@
 # JavaScript Slider Template
 
-![Banner](images/banner.png)
+This project is a simple and responsive JavaScript slider template designed to work seamlessly across all devices. It features smooth transitions, navigation buttons, and customizable styles to fit various use cases.
 
 ## Overview
 
-This project is a simple and responsive JavaScript slider template designed to work seamlessly across all devices. It features smooth transitions, navigation buttons, and customizable styles to fit various use cases.
+### Desktop 
+
+![Banner](images/desktop.png)
+
+### Mobile 
+
+![Banner](images/mobile.png)
 
 ## Features
 
