@@ -6,11 +6,11 @@ This project is a simple and responsive JavaScript slider template designed to w
 
 ### Desktop
 
-![Desktop Preview](./images/desktop.png)
+![Desktop Preview](./src/images/desktop.png)
 
 ### Mobile
 
-![Mobile Preview](./images/mobile.png)
+![Mobile Preview](./src/images/mobile.png)
 
 This slider template is built to be responsive and works well on various screen sizes. The CSS media queries ensure that the slider adjusts its width and other properties based on the screen size.
 
