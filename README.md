@@ -27,8 +27,8 @@ To get started with this slider template, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/iqbolshoh/template-javascript-slider.git
-   cd template-javascript-slider
+   git clone https://github.com/iqbolshoh/javascript-dynamic-slider.git
+   cd javascript-dynamic-slider
    ```
 
 2. **Open the `index.html` file in your browser:**
