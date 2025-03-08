@@ -52,7 +52,7 @@ open index.html
 
 ---
 
-## 🛠 Technologies Used  
+## 🖥️ Technologies Used  
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <img src="https://img.shields.io/badge/HTML-%23F06529.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
