@@ -1,4 +1,4 @@
-# 🖼️ JavaScript Dynamic Slider  
+# 🖼️ JavaScript Dynamic Slider 
 
 🚀 A **lightweight, responsive, and customizable slider** built using **HTML, CSS, and JavaScript**.  
 It features **smooth transitions, navigation controls**, and **auto-play functionality**.  
