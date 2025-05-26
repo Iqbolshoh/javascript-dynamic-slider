@@ -12,7 +12,7 @@ It features **smooth transitions, navigation controls**, and **auto-play functio
 
 ---
 
-## 📸 Preview  
+## 📸 Preview 
 
 ### 🖥️ Desktop  
 ![Desktop Preview](./src/images/desktop.png)  
